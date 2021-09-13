@@ -5,6 +5,4 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by [Your Name] for the Lighthouse Labs Web Development Bootcamp.
-
-[Hamza's Github](https://github.com/ghelle2h)
+This repository contains all of the notes taken by [Hamza's Github](https://github.com/ghelle2h) for the Lighthouse Labs Web Development Bootcamp.
